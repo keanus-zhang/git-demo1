@@ -18,3 +18,4 @@ hello git-learning
 hello git-learning
 hello git-learning   master got-fix
 333333333333333333
+git remote -v 查看远端版本库
